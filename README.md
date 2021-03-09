@@ -2,9 +2,13 @@
 
 本リポジトリは、書籍「Pythonではじめるデスクトップアプリ開発入門」のサポートページです。  
 
-<div align="left">  
+<div align="left">
 <img src="images/cover.png" width="500">
-</div>  
+</div>
+
+Amazon製品ページ (販売開始後にリンクは有効になります)    
+[紙書籍 (ソフトカバー)]()  
+[電子書籍 (Kindle)]()  
 
 ## 書籍紹介
 
