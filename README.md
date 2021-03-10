@@ -6,9 +6,9 @@
 <img src="images/cover.png" width="500">
 </div>
 
-Amazon製品ページ (販売開始後にリンクは有効になります)    
+Amazon製品ページ      
 [紙書籍 (ソフトカバー)]()  
-[電子書籍 (Kindle)]()  
+[電子書籍 (Kindle)](https://www.amazon.co.jp/dp/B08YDT2TDY)  
 
 ## 書籍紹介
 
