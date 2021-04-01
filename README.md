@@ -27,7 +27,7 @@ Amazon 製品ページ
 本書は、プログラミングの知識がゼロからでも学習をはじめられます。最終的には、自身で小～中規模のデスクトップアプリケーションを開発できるようになることを目標にしています。本書を終えるころには、Pythonの公式ドキュメントや他の入門書を読む力も身につきます。  
 
 以下のページから、目次までの試し読みができます。  
-[試し読み](http://pc-chem-basics.blog.jp/bibi/?book=pab_sample.epub)
+[試し読み (BOOK☆WALKER)](https://viewer-trial.bookwalker.jp/03/9/viewer.html?cid=24bd8e89-7d2a-47e3-a053-e0b8e17cc74e&cty=1)
 
 ## サンプルファイル
 
