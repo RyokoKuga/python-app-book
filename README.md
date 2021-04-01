@@ -6,9 +6,13 @@
 <img src="images/cover.png" width="500">
 </div>
 
-Amazon製品ページ      
+
+Amazon 製品ページ  
 [紙書籍 (ソフトカバー)](https://www.amazon.co.jp/dp/B08YHYJ84S)  
 [電子書籍 (Kindle)](https://www.amazon.co.jp/dp/B08YDT2TDY)  
+</div>
+
+電子書籍版は、[楽天](https://hb.afl.rakuten.co.jp/ichiba/1f8d2e89.397e6e74.1f8d2e8a.dd300d67/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutenkobo-ebooks%2Fa6aa8433637732ca9a8c20415eb814f4%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9)及び[BOOK☆WALKER](https://bookwalker.jp/de24bd8e89-7d2a-47e3-a053-e0b8e17cc74e/?acode=1DRCLqyC)でもご購入いただけます。  
 
 ## 書籍紹介
 
