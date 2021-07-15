@@ -39,7 +39,7 @@ Amazon 製品ページ
 
 ## 正誤情報
 
-正誤が見つかり次第、掲載致します。  
+書籍の正誤表は、本リポジトリの[ERRATAファイル](https://github.com/RyokoKuga/python-app-book/blob/main/ERRATA.md)をご参照ください。  
 
 ## ライセンス
 
