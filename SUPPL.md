@@ -73,7 +73,8 @@ x軸方向のスクロールバーを実際にテストしたい場合は、以�
 ```python
 # 変更前
 txtbox = tk.Text(frame, width = 60, height = 20)
-
+```
+```python
 # 変更後「wrap = "none"」の追加
 txtbox = tk.Text(frame, width = 60, height = 20, wrap = "none")
 ```
