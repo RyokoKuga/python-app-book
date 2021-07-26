@@ -16,56 +16,6 @@ run_button.place(x = 110, y = 30)
 サンプルファイル([Chapter_2.ipynb](./Chapter_2/Chapter_2.ipynb))にも補足情報を追加しました。
 </br>
 </br>
-## P.72: 図4-5. row, column による配置
-
-図4-5の説明が分かりづらかったので補足します。grid()メソッドのrowとcolumnによる指定は、以下のように表にするとイメージしやすくなります。例えば、図4-5の左図では以下のような配置になります。
-
-|  | column=0 | column=1 |
-| :-: | :-: | :-: |
-| row=0 |    | RUN2 |
-| row=1 | RUN1 |    |
-```python
-# ボタン
-run_button1 = tk.Button(frame, text = "RUN1")
-run_button1.grid(row=1, column=0, padx = 5)
-
-run_button2 = tk.Button(frame, text = "RUN2")
-run_button2.grid(row = 0, column = 1, padx = 5)
-```
-
-一方、図4-5の右図では以下のような配置になります。column=0の列に値が存在しない場合は、ウインドウ上には表示されません。
-
-|  | column=0 | column=1 |
-| :-: | :-: | :-: |
-| row=0 |    | RUN2 |
-| row=1 |    | RUN1 |
-```python
-# ボタン
-run_button1 = tk.Button(frame, text = "RUN1")
-run_button1.grid(row=1, column=1, padx = 5)
-
-run_button2 = tk.Button(frame, text = "RUN2")
-run_button2.grid(row = 0, column = 1, padx = 5)
-```
-
-つまり、以下のようにコードを変更しても、実際にアプリケーション上で表示されるボタンの配置は上記と同じになります。
-
-|  | column=0 | column=1 |
-| :-: | :-: | :-: |
-| row=0 | RUN2 |    |
-| row=1 | RUN1 |    |
-```python
-# ボタン
-run_button1 = tk.Button(frame, text = "RUN1")
-run_button1.grid(row=1, column=0, padx = 5)
-
-run_button2 = tk.Button(frame, text = "RUN2")
-run_button2.grid(row = 0, column = 0, padx = 5)
-```
-
-grid()メソッドのrowとcolumnによる指定で迷った場合は、一度、表に描いてイメージしてみるとよいでしょう。  
-サンプルファイル([Chapter_4-2.ipynb](./Chapter_4/Chapter_4-2.ipynb))にも補足情報を追加しました。  
-</br>
 ## P.178: リスト 6.1.15： x 軸方向のスクロールバー
 
 x軸方向のスクロールバーを実際にテストしたい場合は、以下の箇所を変更してください。  
