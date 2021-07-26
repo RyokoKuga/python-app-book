@@ -63,7 +63,7 @@ run_button2 = tk.Button(frame, text = "RUN2")
 run_button2.grid(row = 0, column = 0, padx = 5)
 ```
 
-grid()メソッドのrowとcolumnによる指定で迷った場合は、一度、表に描いてみるとよいでしょう。  
+grid()メソッドのrowとcolumnによる指定で迷った場合は、一度、表に描いてイメージしてみるとよいでしょう。  
 サンプルファイル([Chapter_4-2.ipynb](./Chapter_4/Chapter_4-2.ipynb))にも補足情報を追加しました。  
 </br>
 ## P.178: リスト 6.1.15： x 軸方向のスクロールバー
