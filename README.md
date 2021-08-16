@@ -37,7 +37,7 @@ Mac環境で実行される場合は、[Chapter_3-1_mac.ipynb](https://github.co
 ), [Chapter_4-1_mac.ipynb](https://github.com/RyokoKuga/python-app-book/blob/main/Chapter_4/Chapter_4-1_mac.ipynb), [Chapter_4-2_mac.ipynb](https://github.com/RyokoKuga/python-app-book/blob/main/Chapter_4/Chapter_4-2_mac.ipynb) をご利用ください。
 それ以外のChapterに関するノートブックは、Windows環境と共通です。  
 
-記載されているコードが実行できない場合や、ご不明な点などございましたら、ご遠慮無くお問い合わせください。  
+#### ※記載されているコードが実行できない場合や、ご不明な点などございましたら、ご遠慮無くお問い合わせください。  
 
 ## 補足情報
 
