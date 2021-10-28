@@ -29,6 +29,11 @@ Amazon 製品ページ
 以下のページから、目次までの試し読みができます。  
 [試し読み (BOOK☆WALKER)](https://viewer-trial.bookwalker.jp/03/9/viewer.html?cid=24bd8e89-7d2a-47e3-a053-e0b8e17cc74e&cty=1)
 
+## 出版情報
+
+2021 年 03 月 17 日 第 1 版（初版）発行  
+2021 年 10 月 25 日 第 2 版 発行  
+
 ## サンプルファイル
 
 対応するChapter番号のフォルダにアクセスして、Jupyter Notebook用のノートブックを開いてください。詳しい使い方は、本書のまえがきをご参照ください。  
