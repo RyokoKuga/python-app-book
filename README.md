@@ -38,7 +38,7 @@ Amazon 製品ページ
 
 対応するChapter番号のフォルダにアクセスして、Jupyter Notebook用のノートブックを開いてください。詳しい使い方は、本書のまえがきをご参照ください。  
 
-Mac環境で実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/RyokoKuga/python-app-book/blob/main/Chapter_3/Chapter_3-1_mac.ipynb
+macOSで実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/RyokoKuga/python-app-book/blob/main/Chapter_3/Chapter_3-1_mac.ipynb
 ), [Chapter_4-1_mac.ipynb](https://github.com/RyokoKuga/python-app-book/blob/main/Chapter_4/Chapter_4-1_mac.ipynb), [Chapter_4-2_mac.ipynb](https://github.com/RyokoKuga/python-app-book/blob/main/Chapter_4/Chapter_4-2_mac.ipynb) をご利用ください。
 それ以外のChapterに関するノートブックは、Windows環境と共通です。  
 
