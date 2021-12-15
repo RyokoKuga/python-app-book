@@ -54,4 +54,4 @@ macOSで実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/Ry
 
 ## ライセンス
 
-本リポジトリはMITライセンスです。[LICENSE](./LICENSE)ファイルをご参照ください。  
+本リポジトリはMITライセンスです。[LICENSEファイル](./LICENSE)ファイルをご参照ください。  
