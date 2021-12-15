@@ -50,7 +50,7 @@ macOSで実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/Ry
 
 ## 正誤情報
 
-書籍の正誤表は、本リポジトリの[ERRATAファイル](https://github.com/RyokoKuga/python-app-book/blob/main/ERRATA.md)をご参照ください。  
+書籍の正誤表は、本リポジトリの[ERRATAファイル](./ERRATA.md)をご参照ください。  
 
 ## ライセンス
 
