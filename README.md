@@ -46,7 +46,7 @@ macOSで実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/Ry
 
 ## 補足情報
 
-本書の補足情報は、本リポジトリの[SUPPL](./SUPPL.md)ファイルをご参照ください。    
+本書の補足情報は、本リポジトリの[SUPPLファイル](./SUPPL.md)をご参照ください。    
 
 ## 正誤情報
 
@@ -54,4 +54,4 @@ macOSで実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/Ry
 
 ## ライセンス
 
-本リポジトリはMITライセンスです。[LICENSEファイル](./LICENSE)ファイルをご参照ください。  
+本リポジトリはMITライセンスです。[LICENSEファイル](./LICENSE)をご参照ください。  
