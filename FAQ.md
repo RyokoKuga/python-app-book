@@ -23,7 +23,6 @@
 
 例えば、以下のサイトなどがあります。  
 
-テキスト比較ツール difff《ﾃﾞｭﾌﾌ》  
-[https://difff.jp/](https://difff.jp/)
+- [テキスト比較ツール difff《ﾃﾞｭﾌﾌ》](https://difff.jp/)  
 
 また、configparserの仕様上、config.read()の引数で指定したパスが正しくない場合もKeyErrorが出力されるので注意が必要です。  
