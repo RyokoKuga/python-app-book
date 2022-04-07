@@ -56,3 +56,11 @@ macOSで実行される場合は、[Chapter_3-1_mac.ipynb](https://github.com/Ry
 ## ライセンス
 
 本リポジトリはMITライセンスです。[LICENSEファイル](./LICENSE)をご参照ください。  
+
+## この本を共有
+
+[<img src="images/twitter.png" width="32">](https://twitter.com/intent/tweet?text=%23Pythonではじめるデスクトップアプリ開発入門%20%23Python%0Ahttps://github.com/RyokoKuga/python-app-book)
+&emsp;[<img src="images/facebook.png" width="32">](https://www.facebook.com/share.php?u=https://github.com/RyokoKuga/python-app-book)
+&emsp;[<img src="images/hatena.png" width="32">](https://b.hatena.ne.jp/entry/s/github.com/RyokoKuga/python-app-book)
+&emsp;[<img src="images/line.png" width="32">](https://line.me/R/msg/text/?https://github.com/RyokoKuga/python-app-book)
+&emsp;[<img src="images/pocket.png" width="32">](http://getpocket.com/edit?url=https://github.com/RyokoKuga/python-app-book)  
