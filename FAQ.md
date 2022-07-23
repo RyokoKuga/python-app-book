@@ -2,7 +2,7 @@
 
 よくある質問を掲載しています。
 
-## P.5: Jupyter Notebookの以外のIDEの使用について
+## P.5: Jupyter Notebook以外のIDEの使用について
 
 本書では、アプリケーション開発のIDE(統合開発環境)としてJupyter Notebookを使用して解説しています。  
 既に他のIDEを使用している方は、Jupyter Notebookにこだわらず、ご自身の使いやすいもので学習を進めていただいて問題ございません。  
