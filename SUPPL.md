@@ -2,6 +2,38 @@
 
 本書の補足情報を掲載しております。  
 
+## P.64: リスト 4.1.1： 設定ファイルの生成
+
+ここでは、configparserモジュールに用意されているwrite()メソッドを使用しております(最終行の「config.write(file)」)。  
+
+```python
+# configparserのインポート
+import configparser
+
+# インスタンス化
+config = configparser.ConfigParser()
+# 設定ファイルの内容
+config["Run1"] = {
+    "app1": r"C:\WINDOWS\system32\notepad.exe",
+    "app2": r"C:\Program Files\Internet Explorer\iexplore.exe"
+}
+# 設定ファイルへ書込み
+with open("config.ini", "w+") as file:
+    config.write(file)
+```
+インスタンス化した変数configのあとに「.」をつけてwrite()とコードを入力していることから、configparserモジュールのwrite()メソッドを使用していることを意味します(モジュール内のメソッドの呼び出し方法については、本書P20に記載)。  
+
+一方、P51リスト3.3.3では、Python標準で用意されているファイルの書き込みを行うwrite()メソッドを使用しています。  
+
+```python
+# ファイルへ書き込み
+with open("test.txt", "a+") as file:
+    file.write("OK?")
+```
+メソッド名は同じですが、元となるモジュールが異なるので混乱しないように注意しましょう。  
+
+configparserのwrite()メソッドの引数は、ファイルオブジェクト(ここでは、変数fileに代入した処理)である必要があります。一方、Python標準のファイルの書き込みを行うwrite()メソッドの引数は、文字列である必要があります。  
+
 ## P.178: リスト 6.1.15： x 軸方向のスクロールバー
 
 x軸方向のスクロールバーを実際にテストしたい場合は、以下の箇所を変更してください。  
